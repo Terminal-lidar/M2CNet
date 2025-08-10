@@ -56,12 +56,12 @@ conda env create -f environment.yml
 ./scripts/start.sh
 ```
 ### Infer and Eval
-1.Infer on SemanticKITTI/nuScenes/RELLIS-3D datasets by:
+- Infer on SemanticKITTI/nuScenes/RELLIS-3D datasets by:
 ```bash
 ./scripts/infer.sh
 ```
-2.Eval for valid sequences:\
-The evaluation of the datasets in our experiments is conducted using the [semantic-kitti-api](https://github.com/PRBonn/semantic-kitti-api) provided by the authors of the SemanticKITTI benchmark.
+- Eval for valid sequences:\
+The evaluation of the datasets in our experiments is conducted using the [semantic-kitti-api](https://github.com/PRBonn/semantic-kitti-api) provided by the SemanticKITTI benchmark.
 
 ## Acknowledgments
 We would like to thank the developers of the following open-source projects for providing valuable code and tools that supported this work: [GFNet](https://github.com/haibo-qiu/GFNet.git), [SalsaNext](https://github.com/TiagoCortinhal/SalsaNext.git), 
