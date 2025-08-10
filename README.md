@@ -1,4 +1,4 @@
-# M2CNet: LiDAR 3D Semantic Segmentation Based on Multi-level Multi-view Cross-attention Fusion for Autonomous Vehicles
+# M2CNet
 This repository contains the official implementation of the paper:
 > **M2CNet: LiDAR 3D Semantic Segmentation Based on Multi-level Multi-view Cross-attention Fusion for Autonomous Vehicles**\
 > Mu Zhou, Rui Xiang, Nan Du, Wei He*, Zhao Jiang\
